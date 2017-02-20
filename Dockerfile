@@ -1,4 +1,4 @@
-FROM debian:stable-slim
+FROM nimbix/ubuntu-desktop:latest
 
 RUN apt-get update
 
